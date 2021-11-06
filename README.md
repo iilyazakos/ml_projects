@@ -1,1 +1,1 @@
-# ML_smart_cart
+# ML Projects
